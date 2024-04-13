@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Lowhorn/Documents/DSE6220/Week%208/Examples/mlruns/0/63bd5f1f2f984a77a2b1cee57e4aa9fa/artifacts
+end_time: 1713031574431
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63bd5f1f2f984a77a2b1cee57e4aa9fa
+run_name: random-forest
+run_uuid: 63bd5f1f2f984a77a2b1cee57e4aa9fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713031528726
+status: 3
+tags: []
+user_id: Lowhorn
