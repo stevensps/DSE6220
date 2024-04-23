@@ -1,2 +1,2 @@
-# DSE6220
+# DSE6220: Hadoop and Spark
  
